@@ -2,7 +2,7 @@
 
 My name is Parth. I'm ...
 
-- A versatile CloudOps/DevOps Engineer with hands-on experience supporting, automating, and optimizing mission-critical deployments in AWS, leveraging orchestration, CI/CD, and DevOps processes. 
+- A versatile CloudOps/DevOps/Site Reliability Engineer with hands-on experience supporting, automating, and optimizing mission-critical deployments in AWS, leveraging orchestration, CI/CD, and DevOps processes. 
 
 - Experienced in containerization technologies like Docker, LXC, AWS ECS, etc. Strong grasp in orchestration technologies like AWS CloudFormation, Kubernetes, Terraform, SaltStack, etc.
 
@@ -47,6 +47,7 @@ You can find me on ...
 
 ![SaltStack](https://img.shields.io/badge/-SaltStack-00EACE?style=flat-square&logo=saltstack&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Pulumi](https://img.shields.io/badge/-Pulumi-8A3391?style=flat-square&logo=pulumi&logoColor=white)
 
 ![Pingdom](https://img.shields.io/badge/Pingdom-FFF000?style=flat-square&logo=pingdom&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
